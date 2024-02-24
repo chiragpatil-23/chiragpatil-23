@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @chiragpatil-23
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on some good open source project
+- 💬 Ask me about Frontend, Python, Machine Learning
+- 📫 How to reach me cjpatil23@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+chiragpatil-23/chiragpatil-23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
